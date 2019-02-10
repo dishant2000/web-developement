@@ -1,0 +1,37 @@
+body{
+    background: rgb(211, 160, 20);
+    -webkit-text-fill-color: aliceblue;
+    
+}
+    #upperblock{background: rgb(71, 69, 69);}
+
+    #details{margin: 30px 10px 1000px 1200px;
+             background: rgb(80, 71, 71)} 
+
+    .button{-webkit-text-fill-color: black;}
+
+    .reset{-webkit-text-fill-color: black;}
+
+    a{color: black;
+      text-decoration: aquamarine;}
+
+    nav{
+        height:40px;
+        background:rgb(177, 175, 175);
+       
+    }
+
+    nav ul{
+        padding-top:13px;
+        padding-left:10px;
+        
+    }
+
+    nav li{
+        list-style: none;
+        float:left;
+        padding-right:20px;
+           }
+l
+
+
